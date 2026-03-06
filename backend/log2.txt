@@ -1,0 +1,3 @@
+Server started on port 3000
+MongoDB Connected: ac-g4gd4pd-shard-00-00.40keyk6.mongodb.net
+^C
