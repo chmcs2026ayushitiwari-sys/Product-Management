@@ -1,2 +1,0 @@
-Success: [{"name":"ac-g4gd4pd-shard-00-01.40keyk6.mongodb.net","port":27017,"priority":0,"weight":0,"type":"SRV"},{"name":"ac-g4gd4pd-shard-00-02.40keyk6.mongodb.net","port":27017,"priority":0,"weight":0,"type":"SRV"},{"name":"ac-g4gd4pd-shard-00-00.40keyk6.mongodb.net","port":27017,"priority":0,"weight":0,"type":"SRV"}]
-TXT Records: [["authSource=admin&replicaSet=atlas-slrn1b-shard-0"]]
