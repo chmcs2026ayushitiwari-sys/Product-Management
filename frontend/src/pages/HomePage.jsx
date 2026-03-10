@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import api from "../axios"; // ✅ use axios instance
+import api from "../lib/axios"; // ✅ use axios instance
 import { FiPlus, FiEdit2, FiTrash2, FiSearch, FiPackage } from "react-icons/fi";
 
 const Home = () => {
