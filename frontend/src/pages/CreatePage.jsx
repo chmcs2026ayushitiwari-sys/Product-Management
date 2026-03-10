@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import api from "../lib/axios";✅ use your axios instance
+import api from "../lib/axios";//✅ use your axios instance
 import { FiSave, FiArrowLeft, FiImage, FiFolder, FiTag, FiDollarSign } from "react-icons/fi";
 
 const AddEditProduct = () => {
