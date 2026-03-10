@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, useNavigate } from "react-router-dom";
-import api from "../axios";
+import api from "../lib/axios";
 import { FiArrowLeft, FiPackage } from "react-icons/fi";
 
 const ProductDetailPage = () => {
